@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iwataka
+- 👀 I’m interested in the following things.
+  - Programming (Python, Java, Scala, Go, ...)
+  - Vim
+  - Software Architecture
+  - DevOps
+- 🌱 I’m currently learning and deep-diving into the above things.
