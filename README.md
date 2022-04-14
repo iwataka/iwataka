@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @iwataka
-- 👀 I’m interested in the following things.
-  - Programming (Python, Java, Scala, Go, ...)
-  - Vim
-  - Software Architecture
-  - DevOps
-- 🌱 I’m currently learning and deep-diving into the above things.
+I'm @iwataka, interested in software architecture, DevOps, Programming and Vim
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwataka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![iwataka's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwataka&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
